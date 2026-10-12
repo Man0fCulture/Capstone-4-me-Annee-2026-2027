@@ -1,6 +1,6 @@
 # Audio
 
-Sound effects are made for the project: strikes, gunfire, impacts, footsteps, wind and enemy reactions. They should make impacts and action changes readable. Music and dialogue presentation remain to be specified.
+Sound effects are made for the project: strikes, gunfire, impacts, footsteps, wind and enemy reactions. They should make impacts and action changes readable. Music and dialogue presentation remain to be specified. All made by the capstone group.
 
 ## Related notes
 

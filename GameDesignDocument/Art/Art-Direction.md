@@ -17,6 +17,11 @@ Each colour has shadow, base and light variants for cel-shading.
 
 ![[GameDesignDocument/Gameplay/Palette-Marseille-Tokyo.svg]]
 
+![[Pasted image 20261012173255.png]]
+
+![[Pasted image 20261012173233.png]]
+
+![[Pasted image 20261012173146.png]]
 ## Related notes
 
 - [[GameDesignDocument/Art/Art|Art index]]

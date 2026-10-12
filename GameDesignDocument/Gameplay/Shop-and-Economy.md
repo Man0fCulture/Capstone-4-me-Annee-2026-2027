@@ -8,14 +8,14 @@ Combos can be reconfigured for free at Emmanuel's shop or through a menu outside
 
 ## Initial playtest values
 
-| Item | Initial playtest amount |
-|---|---|
-| Main mission reward | 1,000 |
-| Hunt reward | 500 |
-| Additional beginner or follower | 500 |
-| Additional finisher or launcher | 800 |
-| Fourth ground slot | 2,000 |
-| Special-move slot | 2,500 |
+| Item                            | Initial playtest amount |
+| ------------------------------- | ----------------------- |
+| Main mission reward             | 1,000                   |
+| Hunt reward                     | 500                     |
+| Additional beginner or follower | 500                     |
+| Additional finisher or launcher | 800                     |
+| Fourth ground slot              | 2,000                   |
+| Special-move slot               | 2,500                   |
 
 The currency has no name yet. Prices and rewards provide an initial balance scale.
 
