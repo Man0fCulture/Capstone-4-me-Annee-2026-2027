@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450">
+<rect width="1200" height="450" fill="#F8F4EB"/>
+<text x="44" y="59" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" fill="#1B263B">FranceTokyo — Marseille + Tokyo palette</text>
+<text x="44" y="99" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1B263B">Pale stone, sea blue and terracotta; bright and neon accents</text>
+<rect x="44" y="127" width="172" height="230" rx="12" fill="#FFFDFA"/>
+<rect x="44" y="127" width="172" height="127" rx="12" fill="#F2E3C6"/>
+<text x="54" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">Pale stone</text>
+<text x="54" y="319" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">#F2E3C6</text>
+<text x="54" y="349" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#1B263B">Façades, floors</text>
+<rect x="232" y="127" width="172" height="230" rx="12" fill="#FFFDFA"/>
+<rect x="232" y="127" width="172" height="127" rx="12" fill="#237FBA"/>
+<text x="242" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">Sea blue</text>
+<text x="242" y="319" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">#237FBA</text>
+<text x="242" y="349" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#1B263B">Sea, shutters</text>
+<rect x="420" y="127" width="172" height="230" rx="12" fill="#FFFDFA"/>
+<rect x="420" y="127" width="172" height="127" rx="12" fill="#C96A4A"/>
+<text x="430" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">Terracotta</text>
+<text x="430" y="319" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">#C96A4A</text>
+<text x="430" y="349" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#1B263B">Walls, roofs</text>
+<rect x="608" y="127" width="172" height="230" rx="12" fill="#FFFDFA"/>
+<rect x="608" y="127" width="172" height="127" rx="12" fill="#1B263B"/>
+<text x="618" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">Ink blue</text>
+<text x="618" y="319" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">#1B263B</text>
+<text x="618" y="349" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#1B263B">Shadows, metal</text>
+<rect x="796" y="127" width="172" height="230" rx="12" fill="#FFFDFA"/>
+<rect x="796" y="127" width="172" height="127" rx="12" fill="#F2BC57"/>
+<text x="806" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">Sun yellow</text>
+<text x="806" y="319" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">#F2BC57</text>
+<text x="806" y="349" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#1B263B">Light, details</text>
+<rect x="984" y="127" width="172" height="230" rx="12" fill="#FFFDFA"/>
+<rect x="984" y="127" width="172" height="127" rx="12" fill="#E84B9A"/>
+<text x="994" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">Neon pink</text>
+<text x="994" y="319" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1B263B">#E84B9A</text>
+<text x="994" y="349" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#1B263B">Signs, technology</text>
+<text x="44" y="411" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#1B263B">Concept: a bright Mediterranean city with Japanese urban details.</text>
+</svg>

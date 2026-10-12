@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GameDesignDocument/Planning/Final-Delivery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Final-Delivery"
+            }
+          },
+          {
+            "id": "361ad4b7da63880e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDesignDocument/Gameplay/Core-Loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core-Loop"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,25 +194,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "3e8f87ec6ee00150",
+  "active": "361ad4b7da63880e",
   "lastOpenFiles": [
-    "GameDesignDocument/Story/Chapitre 1.md",
-    "GameDesignDocument/Gameplay/Genre.md",
+    "GameDesignDocument/Gameplay/Controls.md",
+    "GameDesignDocument/Gameplay/Combos.md",
+    "GameDesignDocument/Gameplay/Aerial-Combat.md",
+    "GameDesignDocument/Art/Audio.md",
+    "GameDesignDocument/Art/Art-Direction.md",
+    "GameDesignDocument/Art/Art.md",
+    "GameDesignDocument/Enemies/Bestiary.md",
+    "GameDesignDocument/Interface/Interface.md",
+    "GameDesignDocument/Missions/Hunts.md",
+    "GameDesignDocument/Missions/Missions.md",
+    "GameDesignDocument/Missions/Mission-4-Steezys-Samurai.md",
+    "GameDesignDocument/Missions/Mission-3-The-Last-Delivery.md",
+    "GameDesignDocument/Missions/Mission-2-The-Barking-Package.md",
+    "GameDesignDocument/Missions/Mission-1-Rats-on-Credit.md",
+    "GameDesignDocument/Planning/Verification.md",
+    "GameDesignDocument/Planning/Schedule.md",
+    "GameDesignDocument/Planning/Final-Delivery.md",
+    "GameDesignDocument/Planning/PoC.md",
+    "GameDesignDocument/Planning/Production-Baseline.md",
+    "GameDesignDocument/Planning/One-Semester-Plan.md",
+    "GameDesignDocument/Planning/Delivery-Tracking.md",
+    "GameDesignDocument/Planning/Beta.md",
+    "GameDesignDocument/Planning/Alpha.md",
+    "GameDesignDocument/Story/Chapter-1.md",
+    "GameDesignDocument/Story/Setting-and-Narrative.md",
+    "GameDesignDocument/Story/Story.md",
+    "Sans titre.canvas",
     "GameDesignDocument/Story",
-    "GameDesignDocument/GDD.md",
     "GameDesignDocument/Gameplay",
-    "GameDesignDocument/2026-10-01.md",
-    "GameDesignDocument",
-    "README.md",
-    "2026-10-01.md"
+    "GameDesignDocument"
   ]
 }
