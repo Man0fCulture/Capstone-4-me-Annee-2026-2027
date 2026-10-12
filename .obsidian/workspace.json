@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameDesignDocument/Planning/Verification.md",
+                "file": "GameDesignDocument/Art/Art-Direction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verification"
+              "title": "Art-Direction"
             }
           }
         ]
@@ -190,6 +190,10 @@
   },
   "active": "ac30ca48138abf3c",
   "lastOpenFiles": [
+    "GameDesignDocument/Art/Audio.md",
+    "GameDesignDocument/Art/Art-Direction.md",
+    "GameDesignDocument/Art/Art.md",
+    "GameDesignDocument/Planning/Verification.md",
     "GameDesignDocument/Planning/Schedule.md",
     "GameDesignDocument/Planning/Production-Baseline.md",
     "GameDesignDocument/Planning/PoC.md",
@@ -197,12 +201,9 @@
     "GameDesignDocument/Planning/Alpha.md",
     "GameDesignDocument/Interface/Interface.md",
     "GameDesignDocument/Enemies/Bestiary.md",
-    "GameDesignDocument/Art/Art-Direction.md",
-    "GameDesignDocument/Art/Art.md",
-    "GameDesignDocument/Art/Audio.md",
-    "Pasted image 20261012173255.png",
-    "Pasted image 20261012173233.png",
-    "Pasted image 20261012173146.png",
+    "GameDesignDocument/Art/Visual/Low-Poly-Colour-Reference.png",
+    "GameDesignDocument/Art/Visual/Low-Poly-Topology-Reference.png",
+    "GameDesignDocument/Art/Visual/Stylised-Lighting-Reference.png",
     "GameDesignDocument/GDD.md",
     "GameDesignDocument/Story/Story.md",
     "GameDesignDocument/Gameplay/Gameplay.md",
@@ -218,7 +219,6 @@
     "GameDesignDocument/Gameplay/Style.md",
     "GameDesignDocument/Gameplay/Dodge-and-Health.md",
     "GameDesignDocument/Gameplay/Special-Move.md",
-    "GameDesignDocument/Gameplay/Aerial-Combat.md",
     "GameDesignDocument/Capstone_GDD_and_Milestone_Sheet.pdf",
     "Sans titre.canvas",
     "GameDesignDocument/Story",
