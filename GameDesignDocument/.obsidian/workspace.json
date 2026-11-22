@@ -192,14 +192,15 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "baa3316f273b3f7a",
+  "active": "2be87021a78e60a2",
   "lastOpenFiles": [
-    "Gameplay/Genre",
-    "Gameplay/Genre.md",
-    "Gameplay",
-    "GDD.md",
+    "Story/Chapitre 2.md",
     "Story/Chapitre 1.md",
+    "Gameplay/Genre/Genre.md",
+    "GDD.md",
     "2026-10-01.md",
+    "Gameplay/Genre",
+    "Gameplay",
     "Story"
   ]
 }
