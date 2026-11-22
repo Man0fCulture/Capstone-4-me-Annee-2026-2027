@@ -12,6 +12,7 @@ Balance and remaining design work: [[GameDesignDocument/Production/Open-Question
 
 ## Combat
 
+- [[GameDesignDocument/Gameplay/Combat-Architecture|Combat architecture]]
 - [[GameDesignDocument/Gameplay/Pistoblade|Pistoblade]]
 - [[GameDesignDocument/Gameplay/Combos|Combos and shared index]]
 - [[GameDesignDocument/Gameplay/Launchers|Launchers]]

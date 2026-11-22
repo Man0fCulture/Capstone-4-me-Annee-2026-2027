@@ -11,6 +11,7 @@ FranceTokyo is a 3D hack'n'slash with configurable combos, set in Markyo.
 ## Sections
 
 - [[GameDesignDocument/Gameplay/Gameplay|Gameplay]] — Controls, combat, combos and progression.
+  - [[GameDesignDocument/Gameplay/Combat-Architecture|Combat architecture]]
 - [[GameDesignDocument/Story/Story|Story]] — Setting, characters and chapter 1.
 - [[GameDesignDocument/Missions/Missions|Missions]] — Main missions and repeatable hunts.
 - [[GameDesignDocument/Enemies/Bestiary|Enemies]] — PoC bestiary.
