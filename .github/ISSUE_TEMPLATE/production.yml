@@ -1,0 +1,39 @@
+name: Tâche de production
+description: Planifier une tâche Blueprint, UI, level design ou intégration.
+projects:
+  - Man0fCulture/1
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ajoute un pilote et le binôme éventuel. Choisis le jalon de livraison et les labels de domaine et de priorité.
+        Relie les issues bloquantes avec les dépendances GitHub.
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Résultat attendu
+      description: Précise le comportement, la carte ou le parcours concerné.
+    validations:
+      required: true
+  - type: input
+    id: gdd
+    attributes:
+      label: Référence GDD
+      description: Lien vers la règle de jeu, la mission ou le jalon concerné.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critères d’acceptation
+      description: Donne les étapes et résultats observables dans le jeu ou le build.
+      placeholder: |
+        - [ ] Vérifier le parcours normal dans la carte de test.
+        - [ ] Vérifier le cas qui pourrait casser le comportement.
+    validations:
+      required: true
+  - type: textarea
+    id: integration
+    attributes:
+      label: Intégration Blueprint
+      description: Indique les Blueprints ou cartes concernés, l’état à faire évoluer et les interfaces entre pôles.

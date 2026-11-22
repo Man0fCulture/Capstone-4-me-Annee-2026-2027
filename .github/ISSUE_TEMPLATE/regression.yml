@@ -1,0 +1,28 @@
+name: Bug ou régression
+description: Signaler un problème reproductible sur une carte ou un build.
+labels:
+  - bug
+projects:
+  - Man0fCulture/1
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Version et contexte
+      description: Version du build ou commit, carte ou mission et mode de test.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Étapes pour reproduire
+      description: Précise l’état de départ, les actions et la fréquence du problème.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Résultat observé et résultat attendu
+      description: Indique si le problème bloque la progression. Ajoute la référence GDD et une preuve si disponibles.
+    validations:
+      required: true
