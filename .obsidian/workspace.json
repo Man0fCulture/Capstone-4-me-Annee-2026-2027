@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "63592b687c231457",
+        "id": "4ff6dd8b7a2b200e",
         "type": "tabs",
         "children": [
           {
-            "id": "3e8f87ec6ee00150",
+            "id": "ac30ca48138abf3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GameDesignDocument/Art/Art-Direction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Art-Direction"
             }
           }
         ]
@@ -179,25 +179,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "3e8f87ec6ee00150",
+  "active": "ac30ca48138abf3c",
   "lastOpenFiles": [
-    "GameDesignDocument/Story/Chapitre 1.md",
-    "GameDesignDocument/Gameplay/Genre.md",
-    "GameDesignDocument/Story",
+    "GameDesignDocument/Art/Audio.md",
+    "GameDesignDocument/Art/Art-Direction.md",
+    "GameDesignDocument/Art/Art.md",
+    "GameDesignDocument/Planning/Verification.md",
+    "GameDesignDocument/Planning/Schedule.md",
+    "GameDesignDocument/Planning/Production-Baseline.md",
+    "GameDesignDocument/Planning/PoC.md",
+    "GameDesignDocument/Planning/Beta.md",
+    "GameDesignDocument/Planning/Alpha.md",
+    "GameDesignDocument/Interface/Interface.md",
+    "GameDesignDocument/Enemies/Bestiary.md",
+    "GameDesignDocument/Art/Visual/Low-Poly-Colour-Reference.png",
+    "GameDesignDocument/Art/Visual/Low-Poly-Topology-Reference.png",
+    "GameDesignDocument/Art/Visual/Stylised-Lighting-Reference.png",
     "GameDesignDocument/GDD.md",
+    "GameDesignDocument/Story/Story.md",
+    "GameDesignDocument/Gameplay/Gameplay.md",
+    "GameDesignDocument/Missions/Missions.md",
+    "GameDesignDocument/Missions/Mission-4-Steezys-Samurai.md",
+    "GameDesignDocument/Missions/Mission-3-The-Last-Delivery.md",
+    "GameDesignDocument/Missions/Mission-2-The-Barking-Package.md",
+    "GameDesignDocument/Missions/Mission-1-Rats-on-Credit.md",
+    "GameDesignDocument/Gameplay/Save-and-Death.md",
+    "GameDesignDocument/Gameplay/Shop-and-Economy.md",
+    "GameDesignDocument/Gameplay/Move-Catalogue.md",
+    "GameDesignDocument/Gameplay/Stagger.md",
+    "GameDesignDocument/Gameplay/Style.md",
+    "GameDesignDocument/Gameplay/Dodge-and-Health.md",
+    "GameDesignDocument/Gameplay/Special-Move.md",
+    "GameDesignDocument/Capstone_GDD_and_Milestone_Sheet.pdf",
+    "Sans titre.canvas",
+    "GameDesignDocument/Story",
     "GameDesignDocument/Gameplay",
-    "GameDesignDocument/2026-10-01.md",
-    "GameDesignDocument",
-    "README.md",
-    "2026-10-01.md"
+    "GameDesignDocument"
   ]
 }
