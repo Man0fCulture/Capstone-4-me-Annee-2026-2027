@@ -1,0 +1,22 @@
+"PanelTitle_3","SOUVENIRS"
+"PanelBody_3","Les pages de ce grimoire se rempliront au fil du tournoi : duels remportés, rivaux croisés, trophées de poudre.
+
+Pour l'instant, l'encre attend votre première victoire."
+"PanelTitle_4","CRÉDITS"
+"PanelBody_4","STEEZY
+El Tournament del Powder
+
+Un jeu STEEZY STUDIO
+
+Direction, design et développement
+STEEZY STUDIO
+
+Réalisé avec Unreal Engine 5.8
+
+Merci d'avoir ouvert ce grimoire."
+"PanelTitle_9","CHAPITRE I"
+"PanelBody_9","Le tournoi s'apprête à commencer.
+
+Aucun niveau de jeu n'est encore relié au menu : renseignez GameLevelName sur le directeur du menu.
+
+Échap / B pour revenir."

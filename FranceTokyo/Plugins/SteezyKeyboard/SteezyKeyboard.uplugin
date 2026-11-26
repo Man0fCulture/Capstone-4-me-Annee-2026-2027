@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Steezy Keyboard",
+	"Description": "Lit la disposition du clavier de Windows pour savoir si le joueur tape en AZERTY",
+	"Category": "Steezy",
+	"CreatedBy": "Steezy Studio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "SteezyKeyboard",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
